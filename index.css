@@ -1,0 +1,8 @@
+
+.popups{
+    display: none;
+}
+
+.check:active + .popups{
+    display: block;
+}
